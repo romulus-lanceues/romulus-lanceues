@@ -1,7 +1,7 @@
 <div align="center">
 # Hi, I'm Lance 👋
  
-### Backend Developer | Java · Spring Boot | Building Toward Fintech & Banking Systems
+### Backend Developer | Java · Spring Boot 
  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lanceabuela@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/romulus-lanceues)
