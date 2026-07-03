@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lance1>
+<h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">An aspiring Java software developer</h3>    
 
  
-<p align="center">
-Currently upskilling in backend engineering by building real, production-shaped projects to prove it.
+<p align="center"> I'm a recent Computer Science graduate at ICCT Colleges and very eager to learn and provide value in a professional level.
+I'm Currently upskilling in backend engineering by building real, production-shaped projects to prove it.
 </p>
 
 ### 🛠️ Tech Stack
