@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Lance</h1>
-<h3 align="center">An aspiring Java software developer</h3>    
-
+<div align="center">
+# Hi, I'm [Your Name] 👋
  
-<p align="center"> I'm a recent Computer Science graduate at ICCT Colleges and very eager to learn and provide value in a professional level.
-I'm Currently upskilling in backend engineering by building real, production-shaped projects to prove it.
-</p>
+### Backend Developer | Java · Spring Boot | Building Toward Fintech & Banking Systems
+ 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lanceabuela@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/romulus-lanceues)
+ 
+</div>
 
-### 🛠️ Tech Stack
+
+---
+
+### About Me
+ 
+I'm a recent computer science graduate working mainly in Java and Spring Boot. I aspire to be a backend developer using Java and my projects are built around practicing my backend development skills.
+ 
+I'm currently looking for **junior / associate backend roles**, and very eager to learn and provide value in a professional level.
+
+---
+
+###  Tech Stack
  
 **Backend**
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
 **Database**
- 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools**
@@ -25,33 +41,39 @@ I'm Currently upskilling in backend engineering by building real, production-sha
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📌 Currently Learning
+
+###  Featured Projects
+ 
+#### 🩺 [Medication Intake Tracker](#) — Capstone Project
+IoT-enabled medication tracking system pairing an ESP32 microcontroller with a Spring Boot backend for real-time intake logging.
+- Designed and implemented RESTful APIs to handle device communication and process medication history records
+- Diagnosed and resolved N+1 query issues and added server-side pagination, meaningfully improving query performance and API response times
+- **Stack:** Java, Spring Boot, ESP32, REST APIs
+#### ⏱️ [studium](#) — Pomodoro-Style Study Session Manager
+A production-style Spring Boot API for a Pomodoro study platform with secure cookie-based JWT auth and full session lifecycle management.
+- Implemented secure JWT cookie authentication with refresh-token rotation
+- Modeled the domain in PostgreSQL and handled the full session lifecycle
+- Built analytics services that turn session history into productivity scores, streaks, goal progress, and peak-hour insights
+- Built a focus recommendation engine that analyzes duration, completion rate, interruptions, and peak hours to suggest optimal study lengths
+- Deployed on Render
+- **Stack:** Java, Spring Boot, Spring Security, JWT
+
+###  Currently Learning
  
 - System design fundamentals
 - Data structures & algorithms
+- API design
 
-### 📊 GitHub Stats
+###  GitHub Stats
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romulus-lanceues&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romulus-lanceues" alt="GitHub Streak" />
-</p>
+
+###  Let's Connect
+ 
+I'm actively applying for junior/associate backend roles, especially in banking and fintech. Feel free to reach out — happy to talk shop or compare notes on Spring Boot patterns.
 
 
 
-<!--
-**romulus-lanceues/romulus-lanceues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
